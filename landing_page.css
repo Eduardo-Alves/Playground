@@ -1,0 +1,22 @@
+html, body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: green;
+}
+
+header div {
+  margin: 0px;
+  padding: 0px;
+  height: 80px;
+  width: 300px;
+  background-color: lightgreen;
+}
